@@ -12,7 +12,6 @@
 - Diploma of Higher Education in Statistics & Business Intelligence | The University of Pau, FRANCE (_2018-2020_)
 
 ## Work Experience 
-(More information on LinkedIn)
 
 **Data Scientist @ Caisse d'Epargne Auvergne Limousin Bank, Apprenticeship (sept 2023 - sept 2024)**
 - Implemented a machine learning project aimed at predicting home insurance subscription by customers.
