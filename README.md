@@ -2,6 +2,8 @@
 
 #### Technical Skills: Python, SQL, Machine Learning, Statistics
 
+🌏 Curious and methodical, I enjoy meeting the challenges posed by diverse business issues.
+
 👉 My [resume]() and my [LinkedIn profile](https://www.linkedin.com/in/théojean/)
 
 ## Education
