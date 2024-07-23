@@ -31,7 +31,7 @@ Here's my first machine learning project in my spare time
 ### Predicting bank attrition
 ---------
 
-Développement d'un modèle de détection du risque d'attrition dans le milieu bancaire.
+Development of an attrition risk detection model for the banking industry.
 
 *Binary classification / Metric f1_score / Boosting / OOP*
 
