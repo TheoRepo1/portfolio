@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, Machine Learning, Statistics
 
-👉 My [resume]() and my [LinkedIn profile](www.linkedin.com/in/théojean)
+👉 My [resume]() and my [LinkedIn profile](https://www.linkedin.com/in/théojean/)
 
 ## Education
 - Master's degree in Applied Mathematics & Statistics | The University of Clermont-Auvergne, FRANCE (2022-2024)								       		
