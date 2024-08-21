@@ -35,6 +35,7 @@ Development of an attrition risk detection model for the banking industry.
 
 *Binary classification / Metric f1_score / Boosting / OOP*
 
+![Dashboard_picture](/asset/img/Dashboard.png)
 You can find the dashboard [here](https://bankchurners-dashboard.streamlit.app).
 
 **Data**
