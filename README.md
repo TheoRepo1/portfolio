@@ -35,6 +35,8 @@ Development of an attrition risk detection model for the banking industry.
 
 *Binary classification / Metric f1_score / Boosting / OOP*
 
+You can find the dashboard [here](https://bankchurners-dashboard.streamlit.app).
+
 **Data**
 
 A dataset of over 10,000 bank customers, including their personal and behavioral characteristics, with the target variable being whether the customer remains loyal to the bank or moves to the competition.
