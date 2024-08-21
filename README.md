@@ -31,8 +31,7 @@ Here's my first machine learning project in my spare time
 ### Predicting bank attrition
 ---------
 
-Development of an attrition risk detection model for the banking industry.
-Developed a comprehensive analysis and model within a Jupyter Notebook, enabling step-by-step tracking of the project's progress. Subsequently, created an interactive dashboard using Streamlit to visualise the results for each client.
+Developed an attrition risk detection model tailored for the banking industry. Conducted an analysis and built the model within a Jupyter Notebook, allowing for detailed, step-by-step progress tracking. Following this, I created an interactive Streamlit dashboard to visualize client-specific results, enhancing the ability to monitor attrition risks effectively.
 
 *Binary classification / Metric f1_score / Boosting / OOP*
 
