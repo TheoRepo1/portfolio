@@ -33,6 +33,8 @@ Here's my first machine learning project in my spare time
 
 Developed an attrition risk detection model tailored for the banking industry. Conducted an analysis and built the model within a Jupyter Notebook, allowing for detailed, step-by-step progress tracking. Following this, I created an interactive Streamlit dashboard to visualize client-specific results, enhancing the ability to monitor attrition risks effectively.
 
+Repo name : ML_Project_BankChurners
+
 *Binary classification / Metric f1_score / Boosting / OOP*
 
 ![Dashboard_picture](/asset/img/Dashboard.png)
