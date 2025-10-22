@@ -38,6 +38,7 @@ Repo name : ML_Project_BankChurners
 *Binary classification / Metric f1_score / Boosting / OOP*
 
 ![Dashboard_picture](/asset/img/Dashboard.png)
+![Dashboard_picture](/asset/img/Dashboard2.png)
 You can find the dashboard [here](https://bankchurners-dashboard.streamlit.app).
 
 **Data**
